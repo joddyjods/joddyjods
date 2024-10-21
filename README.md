@@ -1,5 +1,5 @@
 ## Andrew Wagner
-I'm an Engineering Leader - VP of R&D at Tripwire.  As a developer I used to write a lot of Java, JavaScript, HTML, CSS.  Still do, sometimes.
+I'm an Engineering Leader - currently a Senior Manager at AWS.  As a developer I used to write a lot of Java, JavaScript, HTML, CSS.  Still do, sometimes.
 
 ### Where you can find me
 - Portland, Oregon
